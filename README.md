@@ -11,7 +11,7 @@
 
 - Stop Windows Update & installer services
 - Rename cache update (safe reset)
-- Re-register DLL penting
+- Re-register important files
 - Reset proxy & Winsock
 - Clean up unused drivers
 - DISM: scan, check, restore health
